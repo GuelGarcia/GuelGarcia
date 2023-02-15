@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Miguel Garcia's github stats](https://github-readme-stats.vercel.app/api?username=GuelGarcia&theme=gruvbox&show_icons=true)
 <!--
 **GuelGarcia/GuelGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-![Miguel Garcia's github stats](https://github-readme-stats.vercel.app/api?username=GuelGarcia&theme=gruvbox&show_icons=true)
 -->
 
